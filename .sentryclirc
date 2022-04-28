@@ -1,0 +1,10 @@
+[defaults]
+### 你的域名
+url='http://192.158.157.128:9000'
+### 组织团队名默认是 sentry
+org=sentry
+### 项目名称
+project=vue-test
+### 步骤1创建的
+[auth]
+token=a7cfda1c4f564e0585909579e322b8414c7632e59fa64fa5a8b9e7d4b22abf51
